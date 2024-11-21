@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TudoseRazvan1101Ticket2</string>
+    <string name="menu_add">Add</string>
+    <string name="menu_details">Details</string>
+    <string name="tilPatientName">Nume pacient</string>
+    <string name="tilExaminationCost">Costul examinarii</string>
+    <string name="tvInsurance">Are asigurare?</string>
+    <string name="btnSave">Save</string>
+</resources>
